@@ -4,7 +4,7 @@
 - 🌱 I’m growing: React skills, JavaScript skills, Python skills... [Gardening Skills]
 - :eyes: Visit my portfolio: https://jasmineterry92.com
 - :heart: Building things, Fixing things, Not Breaking things, Learning, Exploring. 
-- :heart: Good food, The greatest NBA franchise in history: Los Angeles Lakers. The greatest American comedy series: The Office.
+- :heart: Good food :ramen:, The greatest NBA franchise in history: Los Angeles Lakers :basketball:, The greatest American comedy series: The Office :tv:.
 - :sparkling_heart: The greatest dog in history: my best bud Drogo.
 
 
